@@ -1,0 +1,6 @@
+[submodule "Program/WhiskeyNN/WhiskeyNN/YANNL"]
+	path = Program/WhiskeyNN/WhiskeyNN/YANNL
+	url = https://github.com/MichaelJWelsh/yannl
+[submodule "Program/WhiskeyNN/WhiskeyNN/TCLAP"]
+	path = Program/WhiskeyNN/WhiskeyNN/TCLAP
+	url = https://github.com/mirror/tclap
