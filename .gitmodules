@@ -1,0 +1,6 @@
+[submodule "TCLAP"]
+	path = TCLAP
+	url = https://github.com/mirror/tclap
+[submodule "YANNL"]
+	path = YANNL
+	url = https://github.com/MichaelJWelsh/yannl
